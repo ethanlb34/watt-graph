@@ -1,0 +1,1 @@
+The MIT License permits broad use of software, including the rights to use, copy, modify, and distribute it, provided the original copyright and license notices are included. This software is provided "as is" with no warranties. 
